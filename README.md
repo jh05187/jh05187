@@ -1,4 +1,6 @@
-## Hi there 👋
+Undergraduate Computer Science Student at University of Florida.
+
+Interested in software engineering and IT support opportunities.
 
 <!--
 **jh05187/jh05187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
