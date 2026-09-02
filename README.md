@@ -3,7 +3,7 @@ Undergraduate Computer Science Student at University of Florida graduating in 20
 Interested in software engineering and IT support opportunities.
 
 Email:
-jh3576@gmail.com
+jhe3576@gmail.com
 
 <!--
 **jh05187/jh05187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
