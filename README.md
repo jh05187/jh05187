@@ -1,5 +1,7 @@
 Undergraduate Computer Science Student at University of Florida graduating in 2027.
 
+I do funny stuff with AI.
+
 Interested in software engineering and IT support opportunities.
 
 Email:
